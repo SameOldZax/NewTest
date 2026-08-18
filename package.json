@@ -1,0 +1,15 @@
+{
+  "name": "repeat-bot",
+  "version": "1.0.0",
+  "description": "ربات تلگرام ساده برای ارسال تکراری یک پیام با تایمر و دکمه توقف",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
